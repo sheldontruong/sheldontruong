@@ -1,6 +1,8 @@
-### Hi there 👋, my name is Truong Loc Phat, I'm currently a machine learning engineer which emphasis on application in computer vision
+### Hi there 👋, my name is Truong Loc Phat, 
 
-### Find me more at: https://phattruongai.github.io
+#### I'm currently a machine learning engineer which emphasis on application in computer vision
+
+#### Find me more at: https://phattruongai.github.io
 
 <!--
 **phattruongai/phattruongai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
