@@ -4,6 +4,9 @@
 
 #### Find me more at: https://phattruongai.github.io
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=phattruongai&count_private=true&theme=vue&show_icons=true)]()
+[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phattruongai&langs_count=8&theme=vue&layout=compact)]()
+
 <!--
 **phattruongai/phattruongai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
