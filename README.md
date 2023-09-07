@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Truong Loc Phat, 
+### Hi there 👋, my name is Truong Loc-Phat (Sheldon), 
 
-#### I'm currently a machine learning engineer which emphasis on application in computer vision
+#### I'm currently a machine learning engineer with an emphasis on application in computer vision
 
-#### Find me more at: https://phattruongai.github.io
+#### Find me more at: https://sheldontruong.github.io
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=phattruongai&count_private=true&theme=vue&show_icons=true)]()
 [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phattruongai&langs_count=8&theme=vue&layout=compact)]()
